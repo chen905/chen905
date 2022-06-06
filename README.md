@@ -18,3 +18,14 @@ Hello, 我叫陳佳妤，目前就讀國立中央大學資訊管理系二年級�
 - [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png" width="15" height="auto" alt="php logo" /> _PHP_
 - [x] <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="15" height="auto" alt="mysql logo" /> _MySQL_
 - [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="15" height="auto" alt="html logo" /> _HTML_
+
+### Experience in School
+
+1. NCU-APP ( https://idea.ncu.edu.tw/community/3 )
+    - Front-end developing
+    - Using GitHub, React Native and Firebase
+2. Participating in ACT夢想家‣ ESG影響力計畫-研華組(https://act-esg.com.tw/)
+    - leader of the team, MASK.
+    - **TOP 8** of all 'Advantech' teams.
+    
+<img src="act.JPG" width="180" height="auto" alt="ACT event pic" />
