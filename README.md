@@ -29,3 +29,9 @@ Hello, 我叫陳佳妤，目前就讀國立中央大學資訊管理系二年級�
     - **TOP 8** of all 'Advantech' teams.
     
 <img src="act.JPG" width="180" height="auto" alt="ACT event pic" />
+
+### English Skills
+- I participated in lots of English sessions at noon, mostly last for 50 min.
+<img src="english_corner.jpg" width="180" height="auto" alt="english_corner" />
+
+- TOEIC score: 780 in total. 
