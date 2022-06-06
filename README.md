@@ -8,5 +8,5 @@ Hello, 我叫陳佳妤，目前就讀國立中央大學資訊管理系二年級�
 - Date of Birth: June, 2022 :stuck_out_tongue_closed_eyes:
 - Email :e-mail: : chen027@g.ncu.edu.tw
 - School: Central University <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NCULogo.svg" width="40" height="" title="ncu" alt="ncu_logo" />
--Working Experience: None
--Language Ability: Fluent in English and Chinese
+- Working Experience: None
+- Language Ability: Fluent in English and Chinese
